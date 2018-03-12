@@ -109,6 +109,6 @@ public class Practica1_NumeroCombinatorio {
     public static void computerSample(int[] n, int[] k) throws Exception {
         
         n[0] = 40; n[1] = 10; n[2] = 20; n[3] = 50;
-        k[0] = 1; k[1] = 3; k[2] = 10; k[3] = 5;
+        k[0] = 10; k[1] = 3; k[2] = 10; k[3] = 5;
     }
 }
